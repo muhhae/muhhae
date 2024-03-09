@@ -2,8 +2,9 @@
 ## About Me
 I'm Muhamad Haekal, 2nd Year Computer Engineering Student at Sepuluh Nopember Institute of Technology.
 I really like coding in general. That sensation when you create something that work, that sensation when your neovim look and act the way you want it. That sensation, I'm addicted to it.
-## Check out my personal website here
-[Muhhae Personal Website](https://muhhae.vercel.app/)
+## Personal website
+Visit my personal website here where I will write some blog post and sharing project that I work in.
+[![Static Badge](https://img.shields.io/badge/Visit%20My%20Website-628FDA)](https://muhhae.vercel.app/)
 ##
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5m1bbpauq2fxf1m9c499xwmx1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5m1bbpauq2fxf1m9c499xwmx1&redirect=true)
 ##
