@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?theme=tokyonight&type=venom&height=300&color=gradient&text=muhhae&section=header&reversal=false&textBg=false&desc=Code%20Addict&descSize=30&descAlignY=65)
 ## About Me
-I'm Muhamad Haekal, 3rd Year Computer Engineering Student at Sepuluh Nopember Institute of Technology.
+I'm Muhamad Haekal, 4th Year Computer Engineering Student at Sepuluh Nopember Institute of Technology.
 I really like coding in general. That sensation when you create something that work, that sensation when your neovim look and act the way you want it. That sensation, I'm addicted to it.
 ## Personal website
 Visit my personal website here where I will write some blog post and share project that I work on.
